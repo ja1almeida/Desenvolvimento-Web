@@ -1,0 +1,99 @@
+body{
+    margin: 15px;
+    padding: 0px;
+    background-image: url("img/fundo.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:white;
+    font-family: OCR A;
+} 
+header{
+    text-align: center;
+    margin-bottom: 100px;
+    font-size: 45px;
+}
+h1{
+    margin-right: 150px;
+}
+#orbit{
+    width: 90px;
+    height: 90px;
+    margin-top: 10px;
+    margin-left: 20px;
+    float: left;
+}
+#tubo{
+    height: 250px;
+    width: 250px;
+}
+form{
+    text-align: center;
+    position: relative;
+}
+.dados{
+    margin: 20px;
+    width: 550px;
+    height: 72px;
+    font-size: 40px;
+    color: white;
+    text-align: left;
+    background-color: rgba(0,0,0,0.4);
+    font-family: OCR A;
+}
+.imagens_input{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+}
+#lapis1{
+    top: 28px;
+    right: 290px;
+}
+#lixo1{
+    top: 28px;
+    right: 220px;
+}
+#lapis2{
+    top: 134px;
+    right: 290px;
+}
+#lixo2{
+    top: 134px;
+    right: 220px;
+}
+#lapis3{
+    top: 244px;
+    right: 290px;
+}
+#lixo3{
+    top: 244px;
+    right: 220px;
+}
+#lapis4{
+    top: 354px;
+    right: 290px;
+}
+#lixo4{
+    top: 354px;
+    right: 220px;
+}
+#confirmar{
+    margin-top: 40px;
+    margin-bottom:40px;
+    background-color:#DCC918;
+    color: white;
+    width: 500px;
+    height: 80px;
+    border-radius: 50px;
+    font-size: 60px;
+    font-family: OCR A;
+}
+#backup{
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 140px;
+}

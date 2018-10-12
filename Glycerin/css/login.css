@@ -1,0 +1,103 @@
+body{
+    margin: 15px;
+    padding: 0px;
+    background-image: url("img/fundo.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:white;
+    font-family: OCR A;
+}        
+
+header{
+    text-align: center;
+    margin-bottom: 100px;
+    font-size: 90px;
+}
+
+#molecula{
+    width: 330px;
+    height: 330px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 140px;
+}
+
+form{
+    text-align: center;
+    position:relative;
+}
+
+.dados{
+    margin: 20px;
+    width: 550px;
+    height: 72px;
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    background-color: rgba(0,0,0,0.4);
+    font-family: OCR A;
+}
+#input_image_envelope{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    top: 28px;
+    right: 680px;
+}
+#input_image_cadeado{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    top: 145px;
+    right: 680px;
+}
+
+::placeholder{
+    color: rgba(255, 255, 255, 0.3);
+}
+
+#confirmar{
+    margin-top: 40px;
+    margin-bottom:40px;
+    background-color:#DCC918;
+    color: white;
+    width: 500px;
+    height: 80px;
+    border-radius: 50px;
+    font-size: 60px;
+    font-family: OCR A;
+}
+
+#recuperar_senha{
+    color: grey;
+    font-size: 50px;
+    text-decoration: none;
+}
+
+footer{
+    text-align: center;
+}
+
+#icone_informacao{
+    margin-bottom: 10px; 
+    margin-top: 182px;
+    width: 65px;
+    height: 65px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.linha_divisoria{ 
+    height: 1px;
+    width: 400px;
+}
+
+#novo_cadastro{
+    margin-top: 10px;
+    text-align: center;
+    color: grey;
+    font-size: 40px;
+    text-decoration: none;
+}
+ 

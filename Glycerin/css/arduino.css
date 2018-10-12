@@ -1,0 +1,37 @@
+body{
+    margin: 15px;
+    padding: 0px;
+    background-image: url("img/fundo.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:white;
+    font-family: OCR A;
+} 
+header,h2{
+    text-align: center;
+    margin-bottom: 200px;
+    font-size: 45px;
+}
+form{
+    text-align: center;
+}
+.dados{
+    margin: 20px;
+    width: 550px;
+    height: 72px;
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    background-color: rgba(0,0,0,0.4);
+    font-family: OCR A;
+    margin-bottom: 100px;
+}
+.container_imagem{
+    display: flex;
+    justify-content: center;
+   
+}
+#vidro{
+    width: 250px;
+    height: 250px;
+}
